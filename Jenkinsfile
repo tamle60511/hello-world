@@ -1,2 +1,2 @@
 @Library('personal-pipeline@main') _
-pipelineBackend "hello-word"
+pipelineBackend "hello-world"
